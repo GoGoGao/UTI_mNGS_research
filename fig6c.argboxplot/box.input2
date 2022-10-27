@@ -1,0 +1,1651 @@
+sam	group	gene	abun
+NC1	NC	Acid resistance	-4
+NC1	NC	Aminocoumarins	-4
+NC1	NC	Aminoglycosides	-1.48545264893745
+NC1	NC	Bacitracin	-4
+NC1	NC	Cationic antimicrobial peptides	-2.57399285924905
+NC1	NC	Drug and biocide and metal resistance	-4
+NC1	NC	Drug and biocide resistance	-2.10818065607093
+NC1	NC	Elfamycins	-2.18482894749735
+NC1	NC	Fluoroquinolones	-2.09040215809885
+NC1	NC	Fosfomycin	-4
+NC1	NC	Fosfomycin resistance	-4
+NC1	NC	Fusidic acid	-2.89486879696285
+NC1	NC	Glycopeptides	-4
+NC1	NC	Lipopeptides	-3.13557626079319
+NC1	NC	MLS	-1.77257856321371
+NC1	NC	Multi-biocide resistance	-4
+NC1	NC	Multi-drug resistance	-2.59216682817673
+NC1	NC	Mupirocin	-4
+NC1	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC1	NC	Oxazolidinone	-2.44060240224989
+NC1	NC	Phenicol	-4
+NC1	NC	Phenolic compound resistance	-4
+NC1	NC	Pleuromutilin	-2.73670650977369
+NC1	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC1	NC	Rifampin	-4
+NC1	NC	Sulfonamides	-4
+NC1	NC	Tetracyclines	-2.1739158918073
+NC1	NC	Trimethoprim	-4
+NC1	NC	Zoliflodacin resistance	-2.95496764790521
+NC1	NC	betalactams	-4
+NC10	NC	Acid resistance	-4
+NC10	NC	Aminocoumarins	-2.78736874389254
+NC10	NC	Aminoglycosides	-0.43800625824314
+NC10	NC	Bacitracin	-4
+NC10	NC	Cationic antimicrobial peptides	-4
+NC10	NC	Drug and biocide and metal resistance	-4
+NC10	NC	Drug and biocide resistance	-1.15249995502231
+NC10	NC	Elfamycins	-4
+NC10	NC	Fluoroquinolones	-2.08227003775926
+NC10	NC	Fosfomycin	-4
+NC10	NC	Fosfomycin resistance	-4
+NC10	NC	Fusidic acid	-4
+NC10	NC	Glycopeptides	-4
+NC10	NC	Lipopeptides	-2.64124070821354
+NC10	NC	MLS	-1.40781822200567
+NC10	NC	Multi-biocide resistance	-4
+NC10	NC	Multi-drug resistance	-2.05551371943732
+NC10	NC	Mupirocin	-4
+NC10	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC10	NC	Oxazolidinone	-2.26866593926519
+NC10	NC	Phenicol	-4
+NC10	NC	Phenolic compound resistance	-4
+NC10	NC	Pleuromutilin	-4
+NC10	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC10	NC	Rifampin	-4
+NC10	NC	Sulfonamides	-4
+NC10	NC	Tetracyclines	-2.1007982622236
+NC10	NC	Trimethoprim	-4
+NC10	NC	Zoliflodacin resistance	-4
+NC10	NC	betalactams	-4
+NC11	NC	Acid resistance	-4
+NC11	NC	Aminocoumarins	-4
+NC11	NC	Aminoglycosides	-2.23819888662599
+NC11	NC	Bacitracin	-4
+NC11	NC	Cationic antimicrobial peptides	-4
+NC11	NC	Drug and biocide and metal resistance	-4
+NC11	NC	Drug and biocide resistance	-2.65808330974443
+NC11	NC	Elfamycins	-2.55001420879692
+NC11	NC	Fluoroquinolones	-2.38134118987948
+NC11	NC	Fosfomycin	-4
+NC11	NC	Fosfomycin resistance	-4
+NC11	NC	Fusidic acid	-4
+NC11	NC	Glycopeptides	-4
+NC11	NC	Lipopeptides	-3.30574528215278
+NC11	NC	MLS	-2.08550886164637
+NC11	NC	Multi-biocide resistance	-4
+NC11	NC	Multi-drug resistance	-3.05072436487253
+NC11	NC	Mupirocin	-4
+NC11	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC11	NC	Oxazolidinone	-2.73571016021839
+NC11	NC	Phenicol	-4
+NC11	NC	Phenolic compound resistance	-4
+NC11	NC	Pleuromutilin	-4
+NC11	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC11	NC	Rifampin	-4
+NC11	NC	Sulfonamides	-4
+NC11	NC	Tetracyclines	-2.41813492977745
+NC11	NC	Trimethoprim	-4
+NC11	NC	Zoliflodacin resistance	-3.12513666926411
+NC11	NC	betalactams	-2.37041421357109
+NC12	NC	Acid resistance	-4
+NC12	NC	Aminocoumarins	-4
+NC12	NC	Aminoglycosides	-0.129477091476846
+NC12	NC	Bacitracin	-4
+NC12	NC	Cationic antimicrobial peptides	-4
+NC12	NC	Drug and biocide and metal resistance	-1.32188999356386
+NC12	NC	Drug and biocide resistance	-1.11969884845116
+NC12	NC	Elfamycins	-2.2515272125635
+NC12	NC	Fluoroquinolones	-2.46181788134557
+NC12	NC	Fosfomycin	-4
+NC12	NC	Fosfomycin resistance	-4
+NC12	NC	Fusidic acid	-2.79403360660962
+NC12	NC	Glycopeptides	-1.99567507114888
+NC12	NC	Lipopeptides	-2.21930855062181
+NC12	NC	MLS	-0.351051171641425
+NC12	NC	Multi-biocide resistance	-2.64815581264299
+NC12	NC	Multi-drug resistance	-2.58272366495997
+NC12	NC	Mupirocin	-4
+NC12	NC	Mycobacterium tuberculosis-specific Drug	-2.63572117439166
+NC12	NC	Oxazolidinone	-1.4504655093887
+NC12	NC	Phenicol	-2.57592342655211
+NC12	NC	Phenolic compound resistance	-4
+NC12	NC	Pleuromutilin	-2.03567894291386
+NC12	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC12	NC	Rifampin	-4
+NC12	NC	Sulfonamides	-4
+NC12	NC	Tetracyclines	-0.389419246242446
+NC12	NC	Trimethoprim	-4
+NC12	NC	Zoliflodacin resistance	-4
+NC12	NC	betalactams	-1.76778346202954
+NC13	NC	Acid resistance	-4
+NC13	NC	Aminocoumarins	-4
+NC13	NC	Aminoglycosides	-2.60358378709406
+NC13	NC	Bacitracin	-4
+NC13	NC	Cationic antimicrobial peptides	-4
+NC13	NC	Drug and biocide and metal resistance	-4
+NC13	NC	Drug and biocide resistance	-4
+NC13	NC	Elfamycins	-2.52222562179113
+NC13	NC	Fluoroquinolones	-2.87270740409288
+NC13	NC	Fosfomycin	-4
+NC13	NC	Fosfomycin resistance	-4
+NC13	NC	Fusidic acid	-4
+NC13	NC	Glycopeptides	-2.15787099662555
+NC13	NC	Lipopeptides	-4
+NC13	NC	MLS	-1.9731393372057
+NC13	NC	Multi-biocide resistance	-4
+NC13	NC	Multi-drug resistance	-2.74581677888692
+NC13	NC	Mupirocin	-4
+NC13	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC13	NC	Oxazolidinone	-4
+NC13	NC	Phenicol	-4
+NC13	NC	Phenolic compound resistance	-4
+NC13	NC	Pleuromutilin	-4
+NC13	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC13	NC	Rifampin	-4
+NC13	NC	Sulfonamides	-4
+NC13	NC	Tetracyclines	-2.19776775590233
+NC13	NC	Trimethoprim	-4
+NC13	NC	Zoliflodacin resistance	-4
+NC13	NC	betalactams	-4
+NC2	NC	Acid resistance	-4
+NC2	NC	Aminocoumarins	-4
+NC2	NC	Aminoglycosides	-1.14573691543876
+NC2	NC	Bacitracin	-2.5889967869726
+NC2	NC	Cationic antimicrobial peptides	-4
+NC2	NC	Drug and biocide and metal resistance	-4
+NC2	NC	Drug and biocide resistance	-2.29885912183287
+NC2	NC	Elfamycins	-2.78920613756488
+NC2	NC	Fluoroquinolones	-2.28778172765214
+NC2	NC	Fosfomycin	-4
+NC2	NC	Fosfomycin resistance	-4
+NC2	NC	Fusidic acid	-4
+NC2	NC	Glycopeptides	-4
+NC2	NC	Lipopeptides	-2.66788956108525
+NC2	NC	MLS	-2.07014239605993
+NC2	NC	Multi-biocide resistance	-4
+NC2	NC	Multi-drug resistance	-2.62845500284297
+NC2	NC	Mupirocin	-4
+NC2	NC	Mycobacterium tuberculosis-specific Drug	-2.87237010373027
+NC2	NC	Oxazolidinone	-2.40032488217719
+NC2	NC	Phenicol	-4
+NC2	NC	Phenolic compound resistance	-4
+NC2	NC	Pleuromutilin	-4
+NC2	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC2	NC	Rifampin	-4
+NC2	NC	Sulfonamides	-2.63648109683358
+NC2	NC	Tetracyclines	-2.28324699935491
+NC2	NC	Trimethoprim	-4
+NC2	NC	Zoliflodacin resistance	-3.09078138688715
+NC2	NC	betalactams	-2.2967442165101
+NC3	NC	Acid resistance	-4
+NC3	NC	Aminocoumarins	-4
+NC3	NC	Aminoglycosides	-2.2628392463705
+NC3	NC	Bacitracin	-4
+NC3	NC	Cationic antimicrobial peptides	-4
+NC3	NC	Drug and biocide and metal resistance	-4
+NC3	NC	Drug and biocide resistance	-2.3024794843361
+NC3	NC	Elfamycins	-2.86600321651061
+NC3	NC	Fluoroquinolones	-4
+NC3	NC	Fosfomycin	-4
+NC3	NC	Fosfomycin resistance	-4
+NC3	NC	Fusidic acid	-4
+NC3	NC	Glycopeptides	-4
+NC3	NC	Lipopeptides	-4
+NC3	NC	MLS	-2.57416335294838
+NC3	NC	Multi-biocide resistance	-4
+NC3	NC	Multi-drug resistance	-4
+NC3	NC	Mupirocin	-4
+NC3	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC3	NC	Oxazolidinone	-4
+NC3	NC	Phenicol	-4
+NC3	NC	Phenolic compound resistance	-4
+NC3	NC	Pleuromutilin	-4
+NC3	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC3	NC	Rifampin	-4
+NC3	NC	Sulfonamides	-4
+NC3	NC	Tetracyclines	-2.65998770347718
+NC3	NC	Trimethoprim	-4
+NC3	NC	Zoliflodacin resistance	-4
+NC3	NC	betalactams	-4
+NC4	NC	Acid resistance	-4
+NC4	NC	Aminocoumarins	-4
+NC4	NC	Aminoglycosides	-2.02443230601128
+NC4	NC	Bacitracin	-4
+NC4	NC	Cationic antimicrobial peptides	-4
+NC4	NC	Drug and biocide and metal resistance	-4
+NC4	NC	Drug and biocide resistance	-2.71549861930758
+NC4	NC	Elfamycins	-4
+NC4	NC	Fluoroquinolones	-2.61066448084401
+NC4	NC	Fosfomycin	-4
+NC4	NC	Fosfomycin resistance	-4
+NC4	NC	Fusidic acid	-4
+NC4	NC	Glycopeptides	-4
+NC4	NC	Lipopeptides	-2.65755192545648
+NC4	NC	MLS	-2.24215944811649
+NC4	NC	Multi-biocide resistance	-4
+NC4	NC	Multi-drug resistance	-3.4762510712047
+NC4	NC	Mupirocin	-4
+NC4	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC4	NC	Oxazolidinone	-2.69198341498448
+NC4	NC	Phenicol	-4
+NC4	NC	Phenolic compound resistance	-4
+NC4	NC	Pleuromutilin	-3.38602753117872
+NC4	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC4	NC	Rifampin	-4
+NC4	NC	Sulfonamides	-4
+NC4	NC	Tetracyclines	-2.79566791129104
+NC4	NC	Trimethoprim	-4
+NC4	NC	Zoliflodacin resistance	-4
+NC4	NC	betalactams	-2.7056256223096
+NC5	NC	Acid resistance	-4
+NC5	NC	Aminocoumarins	-3.17713434293613
+NC5	NC	Aminoglycosides	-1.99636746188108
+NC5	NC	Bacitracin	-4
+NC5	NC	Cationic antimicrobial peptides	-4
+NC5	NC	Drug and biocide and metal resistance	-4
+NC5	NC	Drug and biocide resistance	-2.59018525053398
+NC5	NC	Elfamycins	-2.66710155198673
+NC5	NC	Fluoroquinolones	-2.33483582179668
+NC5	NC	Fosfomycin	-2.29335185008651
+NC5	NC	Fosfomycin resistance	-4
+NC5	NC	Fusidic acid	-2.73248669131154
+NC5	NC	Glycopeptides	-4
+NC5	NC	Lipopeptides	-3.14928541419717
+NC5	NC	MLS	-1.65897955085845
+NC5	NC	Multi-biocide resistance	-4
+NC5	NC	Multi-drug resistance	-2.75462519219894
+NC5	NC	Mupirocin	-4
+NC5	NC	Mycobacterium tuberculosis-specific Drug	-3.05129551381473
+NC5	NC	Oxazolidinone	-2.10212903754245
+NC5	NC	Phenicol	-4
+NC5	NC	Phenolic compound resistance	-4
+NC5	NC	Pleuromutilin	-3.35247565450416
+NC5	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC5	NC	Rifampin	-4
+NC5	NC	Sulfonamides	-4
+NC5	NC	Tetracyclines	-2.00443651623421
+NC5	NC	Trimethoprim	-4
+NC5	NC	Zoliflodacin resistance	-4
+NC5	NC	betalactams	-2.0493524302917
+NC6	NC	Acid resistance	-4
+NC6	NC	Aminocoumarins	-4
+NC6	NC	Aminoglycosides	-1.90981786102271
+NC6	NC	Bacitracin	-4
+NC6	NC	Cationic antimicrobial peptides	-2.91219277320885
+NC6	NC	Drug and biocide and metal resistance	-4
+NC6	NC	Drug and biocide resistance	-2.52729161841808
+NC6	NC	Elfamycins	-2.53259833846126
+NC6	NC	Fluoroquinolones	-2.72855650802038
+NC6	NC	Fosfomycin	-4
+NC6	NC	Fosfomycin resistance	-4
+NC6	NC	Fusidic acid	-4
+NC6	NC	Glycopeptides	-3.45691536852376
+NC6	NC	Lipopeptides	-3.1391210483563
+NC6	NC	MLS	-1.95882199565411
+NC6	NC	Multi-biocide resistance	-4
+NC6	NC	Multi-drug resistance	-2.7731736143673
+NC6	NC	Mupirocin	-4
+NC6	NC	Mycobacterium tuberculosis-specific Drug	-3.07475627870869
+NC6	NC	Oxazolidinone	-2.77880231621106
+NC6	NC	Phenicol	-2.98499530749045
+NC6	NC	Phenolic compound resistance	-4
+NC6	NC	Pleuromutilin	-4
+NC6	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC6	NC	Rifampin	-4
+NC6	NC	Sulfonamides	-4
+NC6	NC	Tetracyclines	-2.45813185770142
+NC6	NC	Trimethoprim	-4
+NC6	NC	Zoliflodacin resistance	-4
+NC6	NC	betalactams	-2.55754686515923
+NC7	NC	Acid resistance	-4
+NC7	NC	Aminocoumarins	-4
+NC7	NC	Aminoglycosides	-2.64528992903483
+NC7	NC	Bacitracin	-4
+NC7	NC	Cationic antimicrobial peptides	-2.564996830518
+NC7	NC	Drug and biocide and metal resistance	-4
+NC7	NC	Drug and biocide resistance	-3.40524855467699
+NC7	NC	Elfamycins	-2.71413368609477
+NC7	NC	Fluoroquinolones	-4
+NC7	NC	Fosfomycin	-4
+NC7	NC	Fosfomycin resistance	-4
+NC7	NC	Fusidic acid	-4
+NC7	NC	Glycopeptides	-4
+NC7	NC	Lipopeptides	-3.13520963305338
+NC7	NC	MLS	-2.27180523796092
+NC7	NC	Multi-biocide resistance	-4
+NC7	NC	Multi-drug resistance	-2.69766777045186
+NC7	NC	Mupirocin	-4
+NC7	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC7	NC	Oxazolidinone	-2.89982963751635
+NC7	NC	Phenicol	-4
+NC7	NC	Phenolic compound resistance	-4
+NC7	NC	Pleuromutilin	-4
+NC7	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC7	NC	Rifampin	-4
+NC7	NC	Sulfonamides	-4
+NC7	NC	Tetracyclines	-2.99202387825214
+NC7	NC	Trimethoprim	-4
+NC7	NC	Zoliflodacin resistance	-4
+NC7	NC	betalactams	-1.99812747903873
+NC8	NC	Acid resistance	-4
+NC8	NC	Aminocoumarins	-4
+NC8	NC	Aminoglycosides	0.151417514669267
+NC8	NC	Bacitracin	-4
+NC8	NC	Cationic antimicrobial peptides	-1.26099025218308
+NC8	NC	Drug and biocide and metal resistance	-4
+NC8	NC	Drug and biocide resistance	0.356322010148288
+NC8	NC	Elfamycins	-0.69878336317888
+NC8	NC	Fluoroquinolones	-0.775703477865827
+NC8	NC	Fosfomycin	-4
+NC8	NC	Fosfomycin resistance	-4
+NC8	NC	Fusidic acid	-4
+NC8	NC	Glycopeptides	-4
+NC8	NC	Lipopeptides	-4
+NC8	NC	MLS	-0.55793912427316
+NC8	NC	Multi-biocide resistance	-4
+NC8	NC	Multi-drug resistance	-0.433606394455527
+NC8	NC	Mupirocin	-4
+NC8	NC	Mycobacterium tuberculosis-specific Drug	-1.5892713949489
+NC8	NC	Oxazolidinone	-4
+NC8	NC	Phenicol	-4
+NC8	NC	Phenolic compound resistance	-2.39952475597525
+NC8	NC	Pleuromutilin	-1.85397948167581
+NC8	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC8	NC	Rifampin	-4
+NC8	NC	Sulfonamides	-4
+NC8	NC	Tetracyclines	-1.02825554564612
+NC8	NC	Trimethoprim	-4
+NC8	NC	Zoliflodacin resistance	-1.51593811904016
+NC8	NC	betalactams	-0.120409341664755
+NC9	NC	Acid resistance	-4
+NC9	NC	Aminocoumarins	-4
+NC9	NC	Aminoglycosides	-1.63872873887156
+NC9	NC	Bacitracin	-2.84414411422636
+NC9	NC	Cationic antimicrobial peptides	-2.70612969650765
+NC9	NC	Drug and biocide and metal resistance	-4
+NC9	NC	Drug and biocide resistance	-2.55618086361867
+NC9	NC	Elfamycins	-4
+NC9	NC	Fluoroquinolones	-1.42275267310548
+NC9	NC	Fosfomycin	-4
+NC9	NC	Fosfomycin resistance	-4
+NC9	NC	Fusidic acid	-4
+NC9	NC	Glycopeptides	-4
+NC9	NC	Lipopeptides	-3.0494160723097
+NC9	NC	MLS	-1.98104438217298
+NC9	NC	Multi-biocide resistance	-2.66283081451482
+NC9	NC	Multi-drug resistance	-4
+NC9	NC	Mupirocin	-4
+NC9	NC	Mycobacterium tuberculosis-specific Drug	-4
+NC9	NC	Oxazolidinone	-2.47938095037393
+NC9	NC	Phenicol	-2.54138040575206
+NC9	NC	Phenolic compound resistance	-4
+NC9	NC	Pleuromutilin	-4
+NC9	NC	Quaternary Ammonium Compounds QACs resistance	-4
+NC9	NC	Rifampin	-4
+NC9	NC	Sulfonamides	-4
+NC9	NC	Tetracyclines	-2.11379509630394
+NC9	NC	Trimethoprim	-2.16600622497911
+NC9	NC	Zoliflodacin resistance	-2.86880745942182
+NC9	NC	betalactams	-4
+S11BL2	Infected	Acid resistance	-4
+S11BL2	Infected	Aminocoumarins	-1.72435452439155
+S11BL2	Infected	Aminoglycosides	-0.152221473521902
+S11BL2	Infected	Bacitracin	-4
+S11BL2	Infected	Cationic antimicrobial peptides	-2.25686652203293
+S11BL2	Infected	Drug and biocide and metal resistance	-4
+S11BL2	Infected	Drug and biocide resistance	-0.183255788532192
+S11BL2	Infected	Elfamycins	-1.09117440437873
+S11BL2	Infected	Fluoroquinolones	-0.802127014939891
+S11BL2	Infected	Fosfomycin	-1.28043753185257
+S11BL2	Infected	Fosfomycin resistance	-2.48716196418445
+S11BL2	Infected	Fusidic acid	-3.21014646753402
+S11BL2	Infected	Glycopeptides	-4
+S11BL2	Infected	Lipopeptides	-0.685348127339699
+S11BL2	Infected	MLS	-0.72015043633178
+S11BL2	Infected	Multi-biocide resistance	-2.66632866489665
+S11BL2	Infected	Multi-drug resistance	-0.697907672324976
+S11BL2	Infected	Mupirocin	-3.63265967394497
+S11BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S11BL2	Infected	Oxazolidinone	-1.92657629998814
+S11BL2	Infected	Phenicol	-0.910933123862802
+S11BL2	Infected	Phenolic compound resistance	-1.58186182238737
+S11BL2	Infected	Pleuromutilin	-2.61482547713339
+S11BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-2.31107070512921
+S11BL2	Infected	Rifampin	-1.0426139660526
+S11BL2	Infected	Sulfonamides	-0.544115731760225
+S11BL2	Infected	Tetracyclines	-0.850147829501997
+S11BL2	Infected	Trimethoprim	-1.0443285154362
+S11BL2	Infected	Zoliflodacin resistance	-4
+S11BL2	Infected	betalactams	-0.0454591950577103
+S12BR2	Infected	Acid resistance	-4
+S12BR2	Infected	Aminocoumarins	-3.28563678246378
+S12BR2	Infected	Aminoglycosides	-1.35681001744979
+S12BR2	Infected	Bacitracin	-4
+S12BR2	Infected	Cationic antimicrobial peptides	-4
+S12BR2	Infected	Drug and biocide and metal resistance	-4
+S12BR2	Infected	Drug and biocide resistance	-2.1695789459588
+S12BR2	Infected	Elfamycins	-1.86766599445973
+S12BR2	Infected	Fluoroquinolones	-1.55291677630513
+S12BR2	Infected	Fosfomycin	-3.03593910410868
+S12BR2	Infected	Fosfomycin resistance	-4
+S12BR2	Infected	Fusidic acid	-4
+S12BR2	Infected	Glycopeptides	-4
+S12BR2	Infected	Lipopeptides	-4
+S12BR2	Infected	MLS	-2.02341570291584
+S12BR2	Infected	Multi-biocide resistance	-4
+S12BR2	Infected	Multi-drug resistance	-2.09773937664108
+S12BR2	Infected	Mupirocin	-4
+S12BR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S12BR2	Infected	Oxazolidinone	-4
+S12BR2	Infected	Phenicol	-1.86515663543164
+S12BR2	Infected	Phenolic compound resistance	-4
+S12BR2	Infected	Pleuromutilin	-4
+S12BR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S12BR2	Infected	Rifampin	-4
+S12BR2	Infected	Sulfonamides	-4
+S12BR2	Infected	Tetracyclines	-4
+S12BR2	Infected	Trimethoprim	-4
+S12BR2	Infected	Zoliflodacin resistance	-3.28129922349256
+S12BR2	Infected	betalactams	-1.57941325700132
+S13AR2	Infected	Acid resistance	-1.92979879354283
+S13AR2	Infected	Aminocoumarins	-1.11652717810803
+S13AR2	Infected	Aminoglycosides	0.408304815859945
+S13AR2	Infected	Bacitracin	-1.59203820214657
+S13AR2	Infected	Cationic antimicrobial peptides	-1.2211929665072
+S13AR2	Infected	Drug and biocide and metal resistance	-1.28261606392211
+S13AR2	Infected	Drug and biocide resistance	0.29493204054194
+S13AR2	Infected	Elfamycins	-0.507756223619444
+S13AR2	Infected	Fluoroquinolones	0.162715548777046
+S13AR2	Infected	Fosfomycin	-0.539988742530175
+S13AR2	Infected	Fosfomycin resistance	-1.44875386548678
+S13AR2	Infected	Fusidic acid	-4
+S13AR2	Infected	Glycopeptides	-0.076480567753792
+S13AR2	Infected	Lipopeptides	-0.427483977585639
+S13AR2	Infected	MLS	-0.554144381463483
+S13AR2	Infected	Multi-biocide resistance	-1.44429488924631
+S13AR2	Infected	Multi-drug resistance	-0.132378110033058
+S13AR2	Infected	Mupirocin	-4
+S13AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S13AR2	Infected	Oxazolidinone	-3.64859068471476
+S13AR2	Infected	Phenicol	0.128019493457959
+S13AR2	Infected	Phenolic compound resistance	-1.26327386699872
+S13AR2	Infected	Pleuromutilin	-4
+S13AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S13AR2	Infected	Rifampin	-0.246237807542637
+S13AR2	Infected	Sulfonamides	0.0350542065128473
+S13AR2	Infected	Tetracyclines	0.109265572274408
+S13AR2	Infected	Trimethoprim	-0.0969188914438745
+S13AR2	Infected	Zoliflodacin resistance	-4
+S13AR2	Infected	betalactams	0.422028835304935
+S14BL2	Infected	Acid resistance	-1.81487548284037
+S14BL2	Infected	Aminocoumarins	-1.63739683066944
+S14BL2	Infected	Aminoglycosides	-1.0373671766746
+S14BL2	Infected	Bacitracin	-1.98226486976452
+S14BL2	Infected	Cationic antimicrobial peptides	-1.52358329114112
+S14BL2	Infected	Drug and biocide and metal resistance	-1.3659963005878
+S14BL2	Infected	Drug and biocide resistance	-0.393994940726242
+S14BL2	Infected	Elfamycins	-1.70024070100006
+S14BL2	Infected	Fluoroquinolones	-1.56860159961704
+S14BL2	Infected	Fosfomycin	-0.847241600956714
+S14BL2	Infected	Fosfomycin resistance	-1.9938824930906
+S14BL2	Infected	Fusidic acid	-3.08484378173479
+S14BL2	Infected	Glycopeptides	-4
+S14BL2	Infected	Lipopeptides	-3.30418215163352
+S14BL2	Infected	MLS	-1.8718267933402
+S14BL2	Infected	Multi-biocide resistance	-1.35858463600677
+S14BL2	Infected	Multi-drug resistance	-0.944016196823715
+S14BL2	Infected	Mupirocin	-4
+S14BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S14BL2	Infected	Oxazolidinone	-3.5336673740131
+S14BL2	Infected	Phenicol	-1.80490311783202
+S14BL2	Infected	Phenolic compound resistance	-1.7575891322532
+S14BL2	Infected	Pleuromutilin	-3.52874148587239
+S14BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S14BL2	Infected	Rifampin	-4
+S14BL2	Infected	Sulfonamides	-1.49430564136679
+S14BL2	Infected	Tetracyclines	-1.47765180095105
+S14BL2	Infected	Trimethoprim	-4
+S14BL2	Infected	Zoliflodacin resistance	-4
+S14BL2	Infected	betalactams	-0.980092672261347
+S15A2	Uninfected	Acid resistance	-4
+S15A2	Uninfected	Aminocoumarins	-2.0849332721155
+S15A2	Uninfected	Aminoglycosides	-0.719611858569725
+S15A2	Uninfected	Bacitracin	-2.84733687594606
+S15A2	Uninfected	Cationic antimicrobial peptides	-3.23109984153085
+S15A2	Uninfected	Drug and biocide and metal resistance	-2.09263335136452
+S15A2	Uninfected	Drug and biocide resistance	-1.41875177271766
+S15A2	Uninfected	Elfamycins	-1.1813636800409
+S15A2	Uninfected	Fluoroquinolones	-1.64768382178387
+S15A2	Uninfected	Fosfomycin	-2.3836630675496
+S15A2	Uninfected	Fosfomycin resistance	-4
+S15A2	Uninfected	Fusidic acid	-3.25094578358085
+S15A2	Uninfected	Glycopeptides	-4
+S15A2	Uninfected	Lipopeptides	-2.34284987672559
+S15A2	Uninfected	MLS	-1.25940260913493
+S15A2	Uninfected	Multi-biocide resistance	-2.6279467348964
+S15A2	Uninfected	Multi-drug resistance	-0.987202501180433
+S15A2	Uninfected	Mupirocin	-4
+S15A2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S15A2	Uninfected	Oxazolidinone	-2.49564939320366
+S15A2	Uninfected	Phenicol	-4
+S15A2	Uninfected	Phenolic compound resistance	-2.49772240182689
+S15A2	Uninfected	Pleuromutilin	-4
+S15A2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S15A2	Uninfected	Rifampin	-4
+S15A2	Uninfected	Sulfonamides	-4
+S15A2	Uninfected	Tetracyclines	-1.36217779519392
+S15A2	Uninfected	Trimethoprim	-2.32333557199673
+S15A2	Uninfected	Zoliflodacin resistance	-4
+S15A2	Uninfected	betalactams	-1.24963573951215
+S16BR2	Infected	Acid resistance	-4
+S16BR2	Infected	Aminocoumarins	-1.58082372880566
+S16BR2	Infected	Aminoglycosides	0.327379664126294
+S16BR2	Infected	Bacitracin	-2.47450624727528
+S16BR2	Infected	Cationic antimicrobial peptides	-2.09061899135434
+S16BR2	Infected	Drug and biocide and metal resistance	-2.32378478567742
+S16BR2	Infected	Drug and biocide resistance	-0.25204921432721
+S16BR2	Infected	Elfamycins	-0.400892265476777
+S16BR2	Infected	Fluoroquinolones	-0.117891317855063
+S16BR2	Infected	Fosfomycin	-0.945784663038528
+S16BR2	Infected	Fosfomycin resistance	-2.33122191061665
+S16BR2	Infected	Fusidic acid	-1.13775246541561
+S16BR2	Infected	Glycopeptides	-2.59007845152964
+S16BR2	Infected	Lipopeptides	0.093047356292355
+S16BR2	Infected	MLS	0.660132655473983
+S16BR2	Infected	Multi-biocide resistance	-2.5561461018887
+S16BR2	Infected	Multi-drug resistance	-0.408943755755065
+S16BR2	Infected	Mupirocin	-2.98438543183884
+S16BR2	Infected	Mycobacterium tuberculosis-specific Drug	-1.78838038474672
+S16BR2	Infected	Oxazolidinone	-0.866040904433143
+S16BR2	Infected	Phenicol	-1.69764232411099
+S16BR2	Infected	Phenolic compound resistance	-1.41687202916574
+S16BR2	Infected	Pleuromutilin	-1.31586052979403
+S16BR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S16BR2	Infected	Rifampin	-4
+S16BR2	Infected	Sulfonamides	-1.54344267211506
+S16BR2	Infected	Tetracyclines	0.00708673004362365
+S16BR2	Infected	Trimethoprim	-4
+S16BR2	Infected	Zoliflodacin resistance	-0.903786100825498
+S16BR2	Infected	betalactams	-0.493364696905817
+S17BL2	Infected	Acid resistance	-4
+S17BL2	Infected	Aminocoumarins	-4
+S17BL2	Infected	Aminoglycosides	-4
+S17BL2	Infected	Bacitracin	-4
+S17BL2	Infected	Cationic antimicrobial peptides	-4
+S17BL2	Infected	Drug and biocide and metal resistance	-4
+S17BL2	Infected	Drug and biocide resistance	-3.50925631937725
+S17BL2	Infected	Elfamycins	-4
+S17BL2	Infected	Fluoroquinolones	-4
+S17BL2	Infected	Fosfomycin	-4
+S17BL2	Infected	Fosfomycin resistance	-4
+S17BL2	Infected	Fusidic acid	-3.33862267517376
+S17BL2	Infected	Glycopeptides	-4
+S17BL2	Infected	Lipopeptides	-4
+S17BL2	Infected	MLS	-3.19687032276096
+S17BL2	Infected	Multi-biocide resistance	-4
+S17BL2	Infected	Multi-drug resistance	-2.6675249201138
+S17BL2	Infected	Mupirocin	-4
+S17BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S17BL2	Infected	Oxazolidinone	-3.48641627178805
+S17BL2	Infected	Phenicol	-3.48328808672506
+S17BL2	Infected	Phenolic compound resistance	-4
+S17BL2	Infected	Pleuromutilin	-4
+S17BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S17BL2	Infected	Rifampin	-4
+S17BL2	Infected	Sulfonamides	-4
+S17BL2	Infected	Tetracyclines	-4
+S17BL2	Infected	Trimethoprim	-4
+S17BL2	Infected	Zoliflodacin resistance	-4
+S17BL2	Infected	betalactams	-2.96264605616808
+S18AR2	Uninfected	Acid resistance	-4
+S18AR2	Uninfected	Aminocoumarins	-3.04007355278021
+S18AR2	Uninfected	Aminoglycosides	-0.964938635718174
+S18AR2	Uninfected	Bacitracin	-4
+S18AR2	Uninfected	Cationic antimicrobial peptides	-4
+S18AR2	Uninfected	Drug and biocide and metal resistance	-4
+S18AR2	Uninfected	Drug and biocide resistance	-2.01540327034823
+S18AR2	Uninfected	Elfamycins	-1.62790945557875
+S18AR2	Uninfected	Fluoroquinolones	-2.73904355711575
+S18AR2	Uninfected	Fosfomycin	-4
+S18AR2	Uninfected	Fosfomycin resistance	-4
+S18AR2	Uninfected	Fusidic acid	-4
+S18AR2	Uninfected	Glycopeptides	-4
+S18AR2	Uninfected	Lipopeptides	-3.21634460669737
+S18AR2	Uninfected	MLS	-1.50109839932621
+S18AR2	Uninfected	Multi-biocide resistance	-4
+S18AR2	Uninfected	Multi-drug resistance	-2.11622564940272
+S18AR2	Uninfected	Mupirocin	-4
+S18AR2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S18AR2	Uninfected	Oxazolidinone	-3.12343073948185
+S18AR2	Uninfected	Phenicol	-2.72645442980909
+S18AR2	Uninfected	Phenolic compound resistance	-4
+S18AR2	Uninfected	Pleuromutilin	-4
+S18AR2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S18AR2	Uninfected	Rifampin	-4
+S18AR2	Uninfected	Sulfonamides	-4
+S18AR2	Uninfected	Tetracyclines	-1.10760389842069
+S18AR2	Uninfected	Trimethoprim	-4
+S18AR2	Uninfected	Zoliflodacin resistance	-4
+S18AR2	Uninfected	betalactams	-2.59517551516826
+S20AL2	Infected	Acid resistance	-2.46747765056415
+S20AL2	Infected	Aminocoumarins	-2.28336841949296
+S20AL2	Infected	Aminoglycosides	-1.15920545156772
+S20AL2	Infected	Bacitracin	-4
+S20AL2	Infected	Cationic antimicrobial peptides	-1.92195731157159
+S20AL2	Infected	Drug and biocide and metal resistance	-1.80031257592782
+S20AL2	Infected	Drug and biocide resistance	-0.800389783332157
+S20AL2	Infected	Elfamycins	-1.92484559841958
+S20AL2	Infected	Fluoroquinolones	-1.4862135415619
+S20AL2	Infected	Fosfomycin	-1.87831610707632
+S20AL2	Infected	Fosfomycin resistance	-4
+S20AL2	Infected	Fusidic acid	-2.51996200524474
+S20AL2	Infected	Glycopeptides	-2.9198999218975
+S20AL2	Infected	Lipopeptides	-1.65702014645084
+S20AL2	Infected	MLS	-0.825547534529575
+S20AL2	Infected	Multi-biocide resistance	-1.82589960073367
+S20AL2	Infected	Multi-drug resistance	-1.07724602447547
+S20AL2	Infected	Mupirocin	-4
+S20AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S20AL2	Infected	Oxazolidinone	-2.19063434713897
+S20AL2	Infected	Phenicol	-2.39775581645893
+S20AL2	Infected	Phenolic compound resistance	-2.16534035579233
+S20AL2	Infected	Pleuromutilin	-3.13995096843714
+S20AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S20AL2	Infected	Rifampin	-4
+S20AL2	Infected	Sulfonamides	-2.30415986152431
+S20AL2	Infected	Tetracyclines	-1.54863578631238
+S20AL2	Infected	Trimethoprim	-2.40614379181754
+S20AL2	Infected	Zoliflodacin resistance	-4
+S20AL2	Infected	betalactams	-1.32065128679762
+S21AL2	Infected	Acid resistance	-4
+S21AL2	Infected	Aminocoumarins	-4
+S21AL2	Infected	Aminoglycosides	-0.973251646672829
+S21AL2	Infected	Bacitracin	-2.74356404654729
+S21AL2	Infected	Cationic antimicrobial peptides	-4
+S21AL2	Infected	Drug and biocide and metal resistance	-4
+S21AL2	Infected	Drug and biocide resistance	-2.42766103849546
+S21AL2	Infected	Elfamycins	-1.91325225285859
+S21AL2	Infected	Fluoroquinolones	-2.22097570767369
+S21AL2	Infected	Fosfomycin	-4
+S21AL2	Infected	Fosfomycin resistance	-4
+S21AL2	Infected	Fusidic acid	-2.54511296285361
+S21AL2	Infected	Glycopeptides	-4
+S21AL2	Infected	Lipopeptides	-3.38788041801129
+S21AL2	Infected	MLS	-0.879420777744325
+S21AL2	Infected	Multi-biocide resistance	-4
+S21AL2	Infected	Multi-drug resistance	-2.16148746589708
+S21AL2	Infected	Mupirocin	-4
+S21AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S21AL2	Infected	Oxazolidinone	-2.44986851078259
+S21AL2	Infected	Phenicol	-4
+S21AL2	Infected	Phenolic compound resistance	-4
+S21AL2	Infected	Pleuromutilin	-4
+S21AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S21AL2	Infected	Rifampin	-4
+S21AL2	Infected	Sulfonamides	-4
+S21AL2	Infected	Tetracyclines	-1.41120597432312
+S21AL2	Infected	Trimethoprim	-4
+S21AL2	Infected	Zoliflodacin resistance	-4
+S21AL2	Infected	betalactams	-4
+S23BL2	Infected	Acid resistance	-1.40703179495817
+S23BL2	Infected	Aminocoumarins	-0.980870428182945
+S23BL2	Infected	Aminoglycosides	-0.413484649166585
+S23BL2	Infected	Bacitracin	-1.10705976445034
+S23BL2	Infected	Cationic antimicrobial peptides	-0.949838799562488
+S23BL2	Infected	Drug and biocide and metal resistance	-0.750854499715783
+S23BL2	Infected	Drug and biocide resistance	0.189609526504992
+S23BL2	Infected	Elfamycins	-0.939929260772117
+S23BL2	Infected	Fluoroquinolones	-0.974338558172316
+S23BL2	Infected	Fosfomycin	-0.593789278234296
+S23BL2	Infected	Fosfomycin resistance	-1.03986559686171
+S23BL2	Infected	Fusidic acid	-4
+S23BL2	Infected	Glycopeptides	-4
+S23BL2	Infected	Lipopeptides	-2.78341559458053
+S23BL2	Infected	MLS	-1.34706349419238
+S23BL2	Infected	Multi-biocide resistance	-0.794915570162833
+S23BL2	Infected	Multi-drug resistance	-0.295348436161191
+S23BL2	Infected	Mupirocin	-4
+S23BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S23BL2	Infected	Oxazolidinone	-3.40665029570557
+S23BL2	Infected	Phenicol	-2.75991990945853
+S23BL2	Infected	Phenolic compound resistance	-1.31530161916593
+S23BL2	Infected	Pleuromutilin	-4
+S23BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S23BL2	Infected	Rifampin	-4
+S23BL2	Infected	Sulfonamides	-0.709814733850872
+S23BL2	Infected	Tetracyclines	-0.61938690595015
+S23BL2	Infected	Trimethoprim	-4
+S23BL2	Infected	Zoliflodacin resistance	-4
+S23BL2	Infected	betalactams	-0.754130212834186
+S24AR2	Infected	Acid resistance	-4
+S24AR2	Infected	Aminocoumarins	-3.50518993006746
+S24AR2	Infected	Aminoglycosides	-1.12211055168898
+S24AR2	Infected	Bacitracin	-4
+S24AR2	Infected	Cationic antimicrobial peptides	-4
+S24AR2	Infected	Drug and biocide and metal resistance	-4
+S24AR2	Infected	Drug and biocide resistance	-2.7770172300841
+S24AR2	Infected	Elfamycins	-2.25428584204284
+S24AR2	Infected	Fluoroquinolones	-1.64400757004446
+S24AR2	Infected	Fosfomycin	-1.99882944612478
+S24AR2	Infected	Fosfomycin resistance	-4
+S24AR2	Infected	Fusidic acid	-4
+S24AR2	Infected	Glycopeptides	-4
+S24AR2	Infected	Lipopeptides	-2.94675288482042
+S24AR2	Infected	MLS	-1.69771682529688
+S24AR2	Infected	Multi-biocide resistance	-4
+S24AR2	Infected	Multi-drug resistance	-2.40658860424488
+S24AR2	Infected	Mupirocin	-3.56223673090117
+S24AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S24AR2	Infected	Oxazolidinone	-2.68545712977787
+S24AR2	Infected	Phenicol	-1.81032820141441
+S24AR2	Infected	Phenolic compound resistance	-4
+S24AR2	Infected	Pleuromutilin	-3.28259123296433
+S24AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S24AR2	Infected	Rifampin	-2.97960529141093
+S24AR2	Infected	Sulfonamides	-2.33499294939822
+S24AR2	Infected	Tetracyclines	-1.85676925208696
+S24AR2	Infected	Trimethoprim	-1.6519231009763
+S24AR2	Infected	Zoliflodacin resistance	-3.50085237109567
+S24AR2	Infected	betalactams	-2.30108289485815
+S26AR2	Uninfected	Acid resistance	-0.72983142148249
+S26AR2	Uninfected	Aminocoumarins	-0.626960083467153
+S26AR2	Uninfected	Aminoglycosides	0.125535111055802
+S26AR2	Uninfected	Bacitracin	-0.769300146032534
+S26AR2	Uninfected	Cationic antimicrobial peptides	-0.432137571659999
+S26AR2	Uninfected	Drug and biocide and metal resistance	-0.438250718846643
+S26AR2	Uninfected	Drug and biocide resistance	0.664611532041175
+S26AR2	Uninfected	Elfamycins	-0.386182707413929
+S26AR2	Uninfected	Fluoroquinolones	-0.339116018594021
+S26AR2	Uninfected	Fosfomycin	-0.145914286281905
+S26AR2	Uninfected	Fosfomycin resistance	-0.631656076725974
+S26AR2	Uninfected	Fusidic acid	-4
+S26AR2	Uninfected	Glycopeptides	-3.58708740943666
+S26AR2	Uninfected	Lipopeptides	-0.604189416107199
+S26AR2	Uninfected	MLS	-0.832057127769704
+S26AR2	Uninfected	Multi-biocide resistance	-0.388960879381288
+S26AR2	Uninfected	Multi-drug resistance	0.222083971964202
+S26AR2	Uninfected	Mupirocin	-4
+S26AR2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S26AR2	Uninfected	Oxazolidinone	-2.81206434411558
+S26AR2	Uninfected	Phenicol	-3.50790616338903
+S26AR2	Uninfected	Phenolic compound resistance	-0.828261995431129
+S26AR2	Uninfected	Pleuromutilin	-4
+S26AR2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S26AR2	Uninfected	Rifampin	-4
+S26AR2	Uninfected	Sulfonamides	-0.253327799156815
+S26AR2	Uninfected	Tetracyclines	-0.615958674053174
+S26AR2	Uninfected	Trimethoprim	-0.963427951426501
+S26AR2	Uninfected	Zoliflodacin resistance	-4
+S26AR2	Uninfected	betalactams	0.0500360934632171
+S27AR2	Infected	Acid resistance	-4
+S27AR2	Infected	Aminocoumarins	-2.84112236246093
+S27AR2	Infected	Aminoglycosides	-0.756881069877913
+S27AR2	Infected	Bacitracin	-4
+S27AR2	Infected	Cationic antimicrobial peptides	-2.91578437437152
+S27AR2	Infected	Drug and biocide and metal resistance	-4
+S27AR2	Infected	Drug and biocide resistance	-1.26426080611532
+S27AR2	Infected	Elfamycins	-1.696327603917
+S27AR2	Infected	Fluoroquinolones	-1.91186079954986
+S27AR2	Infected	Fosfomycin	-1.9820067725265
+S27AR2	Infected	Fosfomycin resistance	-4
+S27AR2	Infected	Fusidic acid	-4
+S27AR2	Infected	Glycopeptides	-2.82444135109364
+S27AR2	Infected	Lipopeptides	-2.01392181967891
+S27AR2	Infected	MLS	-0.92726233433729
+S27AR2	Infected	Multi-biocide resistance	-4
+S27AR2	Infected	Multi-drug resistance	-1.70703631342022
+S27AR2	Infected	Mupirocin	-3.1991991589593
+S27AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S27AR2	Infected	Oxazolidinone	-2.07938150914939
+S27AR2	Infected	Phenicol	-2.25358027291523
+S27AR2	Infected	Phenolic compound resistance	-2.05893488895696
+S27AR2	Infected	Pleuromutilin	-2.9210471098185
+S27AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S27AR2	Infected	Rifampin	-4
+S27AR2	Infected	Sulfonamides	-1.98454450476442
+S27AR2	Infected	Tetracyclines	-1.13319439124047
+S27AR2	Infected	Trimethoprim	-4
+S27AR2	Infected	Zoliflodacin resistance	-2.66069354443519
+S27AR2	Infected	betalactams	-1.44924965750633
+S28AR2	Infected	Acid resistance	-2.23835611455094
+S28AR2	Infected	Aminocoumarins	-1.65630687480645
+S28AR2	Infected	Aminoglycosides	1.00986243699623
+S28AR2	Infected	Bacitracin	-2.48929155292345
+S28AR2	Infected	Cationic antimicrobial peptides	-2.0975810075173
+S28AR2	Infected	Drug and biocide and metal resistance	-1.72919808827979
+S28AR2	Infected	Drug and biocide resistance	-0.243886560641216
+S28AR2	Infected	Elfamycins	0.0206568984361558
+S28AR2	Infected	Fluoroquinolones	-0.739366033109512
+S28AR2	Infected	Fosfomycin	-1.57033233925638
+S28AR2	Infected	Fosfomycin resistance	-2.0449772206009
+S28AR2	Infected	Fusidic acid	-2.32862903011914
+S28AR2	Infected	Glycopeptides	-2.0750142101209
+S28AR2	Infected	Lipopeptides	0.142504058443974
+S28AR2	Infected	MLS	0.127952664031994
+S28AR2	Infected	Multi-biocide resistance	-1.93634219138279
+S28AR2	Infected	Multi-drug resistance	-0.469887703913204
+S28AR2	Infected	Mupirocin	-2.45011224086621
+S28AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S28AR2	Infected	Oxazolidinone	-0.669010610840148
+S28AR2	Infected	Phenicol	0.554849005025005
+S28AR2	Infected	Phenolic compound resistance	-2.31576833785948
+S28AR2	Infected	Pleuromutilin	-2.66864415408888
+S28AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-0.764322984309611
+S28AR2	Infected	Rifampin	-4
+S28AR2	Infected	Sulfonamides	0.350996842191284
+S28AR2	Infected	Tetracyclines	0.578609748286337
+S28AR2	Infected	Trimethoprim	0.313934548392057
+S28AR2	Infected	Zoliflodacin resistance	-4
+S28AR2	Infected	betalactams	-1.11846628274281
+S29AR2	Infected	Acid resistance	-1.19170321415973
+S29AR2	Infected	Aminocoumarins	-0.937394036061268
+S29AR2	Infected	Aminoglycosides	-0.153515764867468
+S29AR2	Infected	Bacitracin	-1.09130353855695
+S29AR2	Infected	Cationic antimicrobial peptides	-0.813976455223954
+S29AR2	Infected	Drug and biocide and metal resistance	-0.564411829355188
+S29AR2	Infected	Drug and biocide resistance	0.341382964371843
+S29AR2	Infected	Elfamycins	-0.894523951801096
+S29AR2	Infected	Fluoroquinolones	-0.836741529161742
+S29AR2	Infected	Fosfomycin	-0.533082574755845
+S29AR2	Infected	Fosfomycin resistance	-1.37398793417092
+S29AR2	Infected	Fusidic acid	-4
+S29AR2	Infected	Glycopeptides	-4
+S29AR2	Infected	Lipopeptides	-1.81307142049286
+S29AR2	Infected	MLS	-0.356411779978708
+S29AR2	Infected	Multi-biocide resistance	-0.770682010716866
+S29AR2	Infected	Multi-drug resistance	-0.207172951983654
+S29AR2	Infected	Mupirocin	-4
+S29AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S29AR2	Infected	Oxazolidinone	-4
+S29AR2	Infected	Phenicol	-0.829772895577538
+S29AR2	Infected	Phenolic compound resistance	-1.20544635759891
+S29AR2	Infected	Pleuromutilin	-4
+S29AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S29AR2	Infected	Rifampin	-4
+S29AR2	Infected	Sulfonamides	-0.487383730677754
+S29AR2	Infected	Tetracyclines	-0.391095318225168
+S29AR2	Infected	Trimethoprim	-0.789158316944196
+S29AR2	Infected	Zoliflodacin resistance	-4
+S29AR2	Infected	betalactams	-0.262171001043648
+S2AL2	Uninfected	Acid resistance	-4
+S2AL2	Uninfected	Aminocoumarins	-4
+S2AL2	Uninfected	Aminoglycosides	0.0466724319176136
+S2AL2	Uninfected	Bacitracin	-4
+S2AL2	Uninfected	Cationic antimicrobial peptides	-2.43385101462432
+S2AL2	Uninfected	Drug and biocide and metal resistance	-4
+S2AL2	Uninfected	Drug and biocide resistance	-1.07812316022203
+S2AL2	Uninfected	Elfamycins	-0.621554406887309
+S2AL2	Uninfected	Fluoroquinolones	-0.337371392517102
+S2AL2	Uninfected	Fosfomycin	-1.95634778599628
+S2AL2	Uninfected	Fosfomycin resistance	-4
+S2AL2	Uninfected	Fusidic acid	-3.15266696101001
+S2AL2	Uninfected	Glycopeptides	-4
+S2AL2	Uninfected	Lipopeptides	-2.87715530922939
+S2AL2	Uninfected	MLS	-0.704840448334836
+S2AL2	Uninfected	Multi-biocide resistance	-4
+S2AL2	Uninfected	Multi-drug resistance	-0.811841925701777
+S2AL2	Uninfected	Mupirocin	-4
+S2AL2	Uninfected	Mycobacterium tuberculosis-specific Drug	-3.18112569853437
+S2AL2	Uninfected	Oxazolidinone	-2.39737057063269
+S2AL2	Uninfected	Phenicol	-0.306424558732023
+S2AL2	Uninfected	Phenolic compound resistance	-4
+S2AL2	Uninfected	Pleuromutilin	-3.29553466948381
+S2AL2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S2AL2	Uninfected	Rifampin	-4
+S2AL2	Uninfected	Sulfonamides	-0.670329433197667
+S2AL2	Uninfected	Tetracyclines	-0.518998411030957
+S2AL2	Uninfected	Trimethoprim	-0.575466126266691
+S2AL2	Uninfected	Zoliflodacin resistance	-4
+S2AL2	Uninfected	betalactams	-0.450620117802974
+S30AL2	Uninfected	Acid resistance	-4
+S30AL2	Uninfected	Aminocoumarins	-4
+S30AL2	Uninfected	Aminoglycosides	-1.52178652196555
+S30AL2	Uninfected	Bacitracin	-4
+S30AL2	Uninfected	Cationic antimicrobial peptides	-4
+S30AL2	Uninfected	Drug and biocide and metal resistance	-4
+S30AL2	Uninfected	Drug and biocide resistance	-2.18440106721927
+S30AL2	Uninfected	Elfamycins	-2.95006999308517
+S30AL2	Uninfected	Fluoroquinolones	-2.20869492390044
+S30AL2	Uninfected	Fosfomycin	-2.97878534842267
+S30AL2	Uninfected	Fosfomycin resistance	-4
+S30AL2	Uninfected	Fusidic acid	-3.19483236791464
+S30AL2	Uninfected	Glycopeptides	-4
+S30AL2	Uninfected	Lipopeptides	-2.16043787785249
+S30AL2	Uninfected	MLS	-1.49700215493474
+S30AL2	Uninfected	Multi-biocide resistance	-4
+S30AL2	Uninfected	Multi-drug resistance	-3.36925165384936
+S30AL2	Uninfected	Mupirocin	-4
+S30AL2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S30AL2	Uninfected	Oxazolidinone	-2.49752792451497
+S30AL2	Uninfected	Phenicol	-4
+S30AL2	Uninfected	Phenolic compound resistance	-4
+S30AL2	Uninfected	Pleuromutilin	-4
+S30AL2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S30AL2	Uninfected	Rifampin	-4
+S30AL2	Uninfected	Sulfonamides	-4
+S30AL2	Uninfected	Tetracyclines	-1.96020681224038
+S30AL2	Uninfected	Trimethoprim	-2.57358098550076
+S30AL2	Uninfected	Zoliflodacin resistance	-2.77780996413596
+S30AL2	Uninfected	betalactams	-2.56452807248169
+S31BL2	Infected	Acid resistance	-2.89262894813551
+S31BL2	Infected	Aminocoumarins	-1.20111365843895
+S31BL2	Infected	Aminoglycosides	-0.0236005500487591
+S31BL2	Infected	Bacitracin	-2.54150439517889
+S31BL2	Infected	Cationic antimicrobial peptides	-1.78574790315859
+S31BL2	Infected	Drug and biocide and metal resistance	-1.79462470834866
+S31BL2	Infected	Drug and biocide resistance	0.134297280836927
+S31BL2	Infected	Elfamycins	-0.58937819367667
+S31BL2	Infected	Fluoroquinolones	-0.783106479658068
+S31BL2	Infected	Fosfomycin	-0.687120200695666
+S31BL2	Infected	Fosfomycin resistance	-1.87534131323902
+S31BL2	Infected	Fusidic acid	-4
+S31BL2	Infected	Glycopeptides	-4
+S31BL2	Infected	Lipopeptides	-0.474846871851834
+S31BL2	Infected	MLS	-0.922719985045023
+S31BL2	Infected	Multi-biocide resistance	-1.9710053941217
+S31BL2	Infected	Multi-drug resistance	-0.228717375490025
+S31BL2	Infected	Mupirocin	-4
+S31BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S31BL2	Infected	Oxazolidinone	-3.09290689942895
+S31BL2	Infected	Phenicol	-2.3755340686788
+S31BL2	Infected	Phenolic compound resistance	-1.19918915980115
+S31BL2	Infected	Pleuromutilin	-4
+S31BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S31BL2	Infected	Rifampin	-4
+S31BL2	Infected	Sulfonamides	-1.99126883744388
+S31BL2	Infected	Tetracyclines	-1.57088557056228
+S31BL2	Infected	Trimethoprim	-4
+S31BL2	Infected	Zoliflodacin resistance	-4
+S31BL2	Infected	betalactams	-0.0452771859141555
+S32AL2	Uninfected	Acid resistance	-4
+S32AL2	Uninfected	Aminocoumarins	-4
+S32AL2	Uninfected	Aminoglycosides	-1.3415657095651
+S32AL2	Uninfected	Bacitracin	-4
+S32AL2	Uninfected	Cationic antimicrobial peptides	-3.20431209840295
+S32AL2	Uninfected	Drug and biocide and metal resistance	-4
+S32AL2	Uninfected	Drug and biocide resistance	-2.60682866657021
+S32AL2	Uninfected	Elfamycins	-2.03833971651423
+S32AL2	Uninfected	Fluoroquinolones	-2.01608882349809
+S32AL2	Uninfected	Fosfomycin	-4
+S32AL2	Uninfected	Fosfomycin resistance	-4
+S32AL2	Uninfected	Fusidic acid	-2.74703678573281
+S32AL2	Uninfected	Glycopeptides	-2.48660229095403
+S32AL2	Uninfected	Lipopeptides	-2.75351545872162
+S32AL2	Uninfected	MLS	-1.33263071284853
+S32AL2	Uninfected	Multi-biocide resistance	-4
+S32AL2	Uninfected	Multi-drug resistance	-2.21863776475491
+S32AL2	Uninfected	Mupirocin	-4
+S32AL2	Uninfected	Mycobacterium tuberculosis-specific Drug	-3.06584560823734
+S32AL2	Uninfected	Oxazolidinone	-2.19586037801231
+S32AL2	Uninfected	Phenicol	-2.03573676243613
+S32AL2	Uninfected	Phenolic compound resistance	-4
+S32AL2	Uninfected	Pleuromutilin	-2.76645920639541
+S32AL2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S32AL2	Uninfected	Rifampin	-4
+S32AL2	Uninfected	Sulfonamides	-2.34024621931251
+S32AL2	Uninfected	Tetracyclines	-1.81971016153917
+S32AL2	Uninfected	Trimethoprim	-1.97939566562658
+S32AL2	Uninfected	Zoliflodacin resistance	-2.28425689139409
+S32AL2	Uninfected	betalactams	-1.77498627296452
+S34AL2	Infected	Acid resistance	-4
+S34AL2	Infected	Aminocoumarins	-3.12942949309577
+S34AL2	Infected	Aminoglycosides	-1.57739647337335
+S34AL2	Infected	Bacitracin	-4
+S34AL2	Infected	Cationic antimicrobial peptides	-4
+S34AL2	Infected	Drug and biocide and metal resistance	-4
+S34AL2	Infected	Drug and biocide resistance	-2.43365378927941
+S34AL2	Infected	Elfamycins	-2.49788136586364
+S34AL2	Infected	Fluoroquinolones	-2.0991093517294
+S34AL2	Infected	Fosfomycin	-4
+S34AL2	Infected	Fosfomycin resistance	-4
+S34AL2	Infected	Fusidic acid	-3.41717560129396
+S34AL2	Infected	Glycopeptides	-4
+S34AL2	Infected	Lipopeptides	-2.12555857856419
+S34AL2	Infected	MLS	-1.59650585491529
+S34AL2	Infected	Multi-biocide resistance	-4
+S34AL2	Infected	Multi-drug resistance	-3.02887361349071
+S34AL2	Infected	Mupirocin	-3.28551000056693
+S34AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S34AL2	Infected	Oxazolidinone	-2.96290920658176
+S34AL2	Infected	Phenicol	-4
+S34AL2	Infected	Phenolic compound resistance	-4
+S34AL2	Infected	Pleuromutilin	-3.08591410602768
+S34AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-3.17131235266523
+S34AL2	Infected	Rifampin	-4
+S34AL2	Infected	Sulfonamides	-4
+S34AL2	Infected	Tetracyclines	-2.42997752834843
+S34AL2	Infected	Trimethoprim	-4
+S34AL2	Infected	Zoliflodacin resistance	-4
+S34AL2	Infected	betalactams	-2.61220961616728
+S35AL2	Uninfected	Acid resistance	-4
+S35AL2	Uninfected	Aminocoumarins	-4
+S35AL2	Uninfected	Aminoglycosides	-1.8767280234757
+S35AL2	Uninfected	Bacitracin	-4
+S35AL2	Uninfected	Cationic antimicrobial peptides	-4
+S35AL2	Uninfected	Drug and biocide and metal resistance	-4
+S35AL2	Uninfected	Drug and biocide resistance	-2.14336314661536
+S35AL2	Uninfected	Elfamycins	-2.46795919895676
+S35AL2	Uninfected	Fluoroquinolones	-3.19524560026081
+S35AL2	Uninfected	Fosfomycin	-4
+S35AL2	Uninfected	Fosfomycin resistance	-4
+S35AL2	Uninfected	Fusidic acid	-3.18229902891503
+S35AL2	Uninfected	Glycopeptides	-4
+S35AL2	Uninfected	Lipopeptides	-3.08287863618932
+S35AL2	Uninfected	MLS	-1.97193510748641
+S35AL2	Uninfected	Multi-biocide resistance	-4
+S35AL2	Uninfected	Multi-drug resistance	-2.73713890555489
+S35AL2	Uninfected	Mupirocin	-4
+S35AL2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S35AL2	Uninfected	Oxazolidinone	-2.55194137514672
+S35AL2	Uninfected	Phenicol	-4
+S35AL2	Uninfected	Phenolic compound resistance	-4
+S35AL2	Uninfected	Pleuromutilin	-4
+S35AL2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S35AL2	Uninfected	Rifampin	-4
+S35AL2	Uninfected	Sulfonamides	-4
+S35AL2	Uninfected	Tetracyclines	-2.30955806889545
+S35AL2	Uninfected	Trimethoprim	-2.23856664975071
+S35AL2	Uninfected	Zoliflodacin resistance	-4
+S35AL2	Uninfected	betalactams	-2.72391079438599
+S37AR2	Uninfected	Acid resistance	-2.4427037168024
+S37AR2	Uninfected	Aminocoumarins	-1.57434773821441
+S37AR2	Uninfected	Aminoglycosides	-0.676588075122007
+S37AR2	Uninfected	Bacitracin	-1.79054916818213
+S37AR2	Uninfected	Cationic antimicrobial peptides	-1.57726409516879
+S37AR2	Uninfected	Drug and biocide and metal resistance	-1.43811192375469
+S37AR2	Uninfected	Drug and biocide resistance	-0.329828319897792
+S37AR2	Uninfected	Elfamycins	-1.57224795236919
+S37AR2	Uninfected	Fluoroquinolones	-1.6703350973848
+S37AR2	Uninfected	Fosfomycin	-1.08442709955328
+S37AR2	Uninfected	Fosfomycin resistance	-1.55035481851666
+S37AR2	Uninfected	Fusidic acid	-4
+S37AR2	Uninfected	Glycopeptides	-4
+S37AR2	Uninfected	Lipopeptides	-3.1916476960999
+S37AR2	Uninfected	MLS	-1.06092043632347
+S37AR2	Uninfected	Multi-biocide resistance	-1.38552245017144
+S37AR2	Uninfected	Multi-drug resistance	-0.867156119941583
+S37AR2	Uninfected	Mupirocin	-4
+S37AR2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S37AR2	Uninfected	Oxazolidinone	-3.42113291848017
+S37AR2	Uninfected	Phenicol	-2.42320592710266
+S37AR2	Uninfected	Phenolic compound resistance	-1.97604789576061
+S37AR2	Uninfected	Pleuromutilin	-4
+S37AR2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S37AR2	Uninfected	Rifampin	-4
+S37AR2	Uninfected	Sulfonamides	-1.01090272790718
+S37AR2	Uninfected	Tetracyclines	-3.14294297040552
+S37AR2	Uninfected	Trimethoprim	-1.11212299848653
+S37AR2	Uninfected	Zoliflodacin resistance	-4
+S37AR2	Uninfected	betalactams	-1.03692080674803
+S38BL2	Infected	Acid resistance	-2.53109132970635
+S38BL2	Infected	Aminocoumarins	-2.37180568235965
+S38BL2	Infected	Aminoglycosides	-0.631868494992308
+S38BL2	Infected	Bacitracin	-2.53214929486198
+S38BL2	Infected	Cationic antimicrobial peptides	-2.53671543118897
+S38BL2	Infected	Drug and biocide and metal resistance	-2.26603855723026
+S38BL2	Infected	Drug and biocide resistance	-1.03016714081013
+S38BL2	Infected	Elfamycins	-1.51654326029559
+S38BL2	Infected	Fluoroquinolones	-1.80638336998062
+S38BL2	Infected	Fosfomycin	-1.60815894064388
+S38BL2	Infected	Fosfomycin resistance	-2.9909249495302
+S38BL2	Infected	Fusidic acid	-2.63472820683213
+S38BL2	Infected	Glycopeptides	-2.74877971514212
+S38BL2	Infected	Lipopeptides	-1.01335106541355
+S38BL2	Infected	MLS	-0.386070651528234
+S38BL2	Infected	Multi-biocide resistance	-2.37055769420338
+S38BL2	Infected	Multi-drug resistance	-1.52102332631964
+S38BL2	Infected	Mupirocin	-4
+S38BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S38BL2	Infected	Oxazolidinone	-0.916234464363744
+S38BL2	Infected	Phenicol	-2.70185375525601
+S38BL2	Infected	Phenolic compound resistance	-2.60850355301488
+S38BL2	Infected	Pleuromutilin	-2.56881177243284
+S38BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-2.08783496253932
+S38BL2	Infected	Rifampin	-4
+S38BL2	Infected	Sulfonamides	-1.88672989573052
+S38BL2	Infected	Tetracyclines	-0.817860242264422
+S38BL2	Infected	Trimethoprim	-2.20734370578963
+S38BL2	Infected	Zoliflodacin resistance	-3.59791704476579
+S38BL2	Infected	betalactams	-1.0812316981796
+S39BR2	Infected	Acid resistance	-4
+S39BR2	Infected	Aminocoumarins	-4
+S39BR2	Infected	Aminoglycosides	-0.093649056753157
+S39BR2	Infected	Bacitracin	-4
+S39BR2	Infected	Cationic antimicrobial peptides	-1.39537706618508
+S39BR2	Infected	Drug and biocide and metal resistance	-4
+S39BR2	Infected	Drug and biocide resistance	-0.663997011083335
+S39BR2	Infected	Elfamycins	-1.53310816974475
+S39BR2	Infected	Fluoroquinolones	-0.66396378050752
+S39BR2	Infected	Fosfomycin	-2.12774736557465
+S39BR2	Infected	Fosfomycin resistance	-4
+S39BR2	Infected	Fusidic acid	-3.2335079363312
+S39BR2	Infected	Glycopeptides	-4
+S39BR2	Infected	Lipopeptides	-1.24442405758887
+S39BR2	Infected	MLS	-0.0845234430216055
+S39BR2	Infected	Multi-biocide resistance	-4
+S39BR2	Infected	Multi-drug resistance	-0.561973861855899
+S39BR2	Infected	Mupirocin	-3.35499114707775
+S39BR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S39BR2	Infected	Oxazolidinone	-3.68233152861046
+S39BR2	Infected	Phenicol	-1.76628555987578
+S39BR2	Infected	Phenolic compound resistance	-1.37514950004288
+S39BR2	Infected	Pleuromutilin	-3.67740564046835
+S39BR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S39BR2	Infected	Rifampin	-4
+S39BR2	Infected	Sulfonamides	-1.14799263044401
+S39BR2	Infected	Tetracyclines	-0.831265888023746
+S39BR2	Infected	Trimethoprim	-4
+S39BR2	Infected	Zoliflodacin resistance	-0.744603525247511
+S39BR2	Infected	betalactams	-1.37661545560808
+S3ALR2	Uninfected	Acid resistance	-4
+S3ALR2	Uninfected	Aminocoumarins	-2.40035046243249
+S3ALR2	Uninfected	Aminoglycosides	-1.86847785230529
+S3ALR2	Uninfected	Bacitracin	-4
+S3ALR2	Uninfected	Cationic antimicrobial peptides	-4
+S3ALR2	Uninfected	Drug and biocide and metal resistance	-4
+S3ALR2	Uninfected	Drug and biocide resistance	-1.92656012735722
+S3ALR2	Uninfected	Elfamycins	-2.89504966704981
+S3ALR2	Uninfected	Fluoroquinolones	-2.05654884643879
+S3ALR2	Uninfected	Fosfomycin	-2.04077360790373
+S3ALR2	Uninfected	Fosfomycin resistance	-4
+S3ALR2	Uninfected	Fusidic acid	-2.58772602551387
+S3ALR2	Uninfected	Glycopeptides	-4
+S3ALR2	Uninfected	Lipopeptides	-2.02557722180237
+S3ALR2	Uninfected	MLS	-2.26102332029582
+S3ALR2	Uninfected	Multi-biocide resistance	-4
+S3ALR2	Uninfected	Multi-drug resistance	-2.05836853387674
+S3ALR2	Uninfected	Mupirocin	-2.60006476683523
+S3ALR2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S3ALR2	Uninfected	Oxazolidinone	-1.83242963513665
+S3ALR2	Uninfected	Phenicol	-4
+S3ALR2	Uninfected	Phenolic compound resistance	-4
+S3ALR2	Uninfected	Pleuromutilin	-4
+S3ALR2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-2.88593082123567
+S3ALR2	Uninfected	Rifampin	-4
+S3ALR2	Uninfected	Sulfonamides	-4
+S3ALR2	Uninfected	Tetracyclines	-2.37014662709269
+S3ALR2	Uninfected	Trimethoprim	-4
+S3ALR2	Uninfected	Zoliflodacin resistance	-4
+S3ALR2	Uninfected	betalactams	-4
+S40AL	Uninfected	Acid resistance	-4
+S40AL	Uninfected	Aminocoumarins	-3.09301596990631
+S40AL	Uninfected	Aminoglycosides	1.23457362114728
+S40AL	Uninfected	Bacitracin	-4
+S40AL	Uninfected	Cationic antimicrobial peptides	-2.93151307266003
+S40AL	Uninfected	Drug and biocide and metal resistance	-4
+S40AL	Uninfected	Drug and biocide resistance	0.429568531008619
+S40AL	Uninfected	Elfamycins	0.4919878354938
+S40AL	Uninfected	Fluoroquinolones	-1.50929494269328
+S40AL	Uninfected	Fosfomycin	-3.21047254917164
+S40AL	Uninfected	Fosfomycin resistance	-4
+S40AL	Uninfected	Fusidic acid	-0.740777830062735
+S40AL	Uninfected	Glycopeptides	1.25052108026684
+S40AL	Uninfected	Lipopeptides	0.813240644753229
+S40AL	Uninfected	MLS	1.11599785487001
+S40AL	Uninfected	Multi-biocide resistance	-4
+S40AL	Uninfected	Multi-drug resistance	0.395202766076321
+S40AL	Uninfected	Mupirocin	-2.51250470758202
+S40AL	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S40AL	Uninfected	Oxazolidinone	0.564115854726123
+S40AL	Uninfected	Phenicol	-3.57118498021635
+S40AL	Uninfected	Phenolic compound resistance	-4
+S40AL	Uninfected	Pleuromutilin	-1.83710396720468
+S40AL	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S40AL	Uninfected	Rifampin	-4
+S40AL	Uninfected	Sulfonamides	-4
+S40AL	Uninfected	Tetracyclines	1.18900378674832
+S40AL	Uninfected	Trimethoprim	-4
+S40AL	Uninfected	Zoliflodacin resistance	-4
+S40AL	Uninfected	betalactams	-1.95535576510476
+S41AL2	Infected	Acid resistance	-4
+S41AL2	Infected	Aminocoumarins	-0.860054557621754
+S41AL2	Infected	Aminoglycosides	0.260277780334727
+S41AL2	Infected	Bacitracin	-2.81852050143925
+S41AL2	Infected	Cationic antimicrobial peptides	-1.23429235825362
+S41AL2	Infected	Drug and biocide and metal resistance	-1.63076094624004
+S41AL2	Infected	Drug and biocide resistance	0.392114048769943
+S41AL2	Infected	Elfamycins	-0.199425191458427
+S41AL2	Infected	Fluoroquinolones	-0.396037319518213
+S41AL2	Infected	Fosfomycin	-0.193428176721425
+S41AL2	Infected	Fosfomycin resistance	-2.37420616911694
+S41AL2	Infected	Fusidic acid	-2.37703136905995
+S41AL2	Infected	Glycopeptides	-2.81239285498874
+S41AL2	Infected	Lipopeptides	0.157723585975248
+S41AL2	Infected	MLS	-0.287214923885096
+S41AL2	Infected	Multi-biocide resistance	-1.61385361721124
+S41AL2	Infected	Multi-drug resistance	0.183165719898707
+S41AL2	Infected	Mupirocin	-4
+S41AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S41AL2	Infected	Oxazolidinone	-1.55700964904679
+S41AL2	Infected	Phenicol	-1.14825542546825
+S41AL2	Infected	Phenolic compound resistance	-0.970595473531099
+S41AL2	Infected	Pleuromutilin	-2.19169779681698
+S41AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-2.37420616911694
+S41AL2	Infected	Rifampin	-4
+S41AL2	Infected	Sulfonamides	-0.99640519349936
+S41AL2	Infected	Tetracyclines	-1.09002903072999
+S41AL2	Infected	Trimethoprim	-1.15362600235517
+S41AL2	Infected	Zoliflodacin resistance	-4
+S41AL2	Infected	betalactams	-0.00408528146104875
+S42AR2	Infected	Acid resistance	-4
+S42AR2	Infected	Aminocoumarins	-2.14410816208297
+S42AR2	Infected	Aminoglycosides	-0.461376145025524
+S42AR2	Infected	Bacitracin	-4
+S42AR2	Infected	Cationic antimicrobial peptides	-4
+S42AR2	Infected	Drug and biocide and metal resistance	-4
+S42AR2	Infected	Drug and biocide resistance	-1.42573225130614
+S42AR2	Infected	Elfamycins	-1.72914124682916
+S42AR2	Infected	Fluoroquinolones	-1.74068834570077
+S42AR2	Infected	Fosfomycin	-1.61211161189654
+S42AR2	Infected	Fosfomycin resistance	-4
+S42AR2	Infected	Fusidic acid	-2.28572623460298
+S42AR2	Infected	Glycopeptides	-4
+S42AR2	Infected	Lipopeptides	-0.875161586431742
+S42AR2	Infected	MLS	-0.631578825760802
+S42AR2	Infected	Multi-biocide resistance	-4
+S42AR2	Infected	Multi-drug resistance	-1.56827422150776
+S42AR2	Infected	Mupirocin	-2.25230748536386
+S42AR2	Infected	Mycobacterium tuberculosis-specific Drug	-2.67148184673725
+S42AR2	Infected	Oxazolidinone	-1.27429649744942
+S42AR2	Infected	Phenicol	-1.45251314426473
+S42AR2	Infected	Phenolic compound resistance	-4
+S42AR2	Infected	Pleuromutilin	-3.27668403407051
+S42AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-1.73883299030917
+S42AR2	Infected	Rifampin	-2.4684417514549
+S42AR2	Infected	Sulfonamides	-1.10041751296945
+S42AR2	Infected	Tetracyclines	-1.01656486421473
+S42AR2	Infected	Trimethoprim	-2.48812189111636
+S42AR2	Infected	Zoliflodacin resistance	-4
+S42AR2	Infected	betalactams	-1.91317335985675
+S43AL2	Infected	Acid resistance	-4
+S43AL2	Infected	Aminocoumarins	-0.192866206434623
+S43AL2	Infected	Aminoglycosides	0.775714987788562
+S43AL2	Infected	Bacitracin	-0.619090464016342
+S43AL2	Infected	Cationic antimicrobial peptides	-1.5148828034718
+S43AL2	Infected	Drug and biocide and metal resistance	-0.377757611737139
+S43AL2	Infected	Drug and biocide resistance	0.652659547456091
+S43AL2	Infected	Elfamycins	0.371083849168662
+S43AL2	Infected	Fluoroquinolones	0.204572837406811
+S43AL2	Infected	Fosfomycin	0.332811627071522
+S43AL2	Infected	Fosfomycin resistance	-1.08707412047293
+S43AL2	Infected	Fusidic acid	-4
+S43AL2	Infected	Glycopeptides	-4
+S43AL2	Infected	Lipopeptides	-0.892508462508701
+S43AL2	Infected	MLS	0.0684560094609671
+S43AL2	Infected	Multi-biocide resistance	-1.23281706569782
+S43AL2	Infected	Multi-drug resistance	0.523547528722657
+S43AL2	Infected	Mupirocin	-4
+S43AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S43AL2	Infected	Oxazolidinone	-3.32582900573118
+S43AL2	Infected	Phenicol	-2.92996200568012
+S43AL2	Infected	Phenolic compound resistance	-0.347444122077671
+S43AL2	Infected	Pleuromutilin	-2.84477692455499
+S43AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S43AL2	Infected	Rifampin	-4
+S43AL2	Infected	Sulfonamides	-1.04809968469136
+S43AL2	Infected	Tetracyclines	-0.513577698700009
+S43AL2	Infected	Trimethoprim	-4
+S43AL2	Infected	Zoliflodacin resistance	-2.45998300967399
+S43AL2	Infected	betalactams	0.461071466227793
+S44AL2	Infected	Acid resistance	-4
+S44AL2	Infected	Aminocoumarins	-2.37963756531311
+S44AL2	Infected	Aminoglycosides	-0.306037614408655
+S44AL2	Infected	Bacitracin	-2.63175155117213
+S44AL2	Infected	Cationic antimicrobial peptides	-3.00423350634689
+S44AL2	Infected	Drug and biocide and metal resistance	-4
+S44AL2	Infected	Drug and biocide resistance	-1.62275988580986
+S44AL2	Infected	Elfamycins	-1.48160470023503
+S44AL2	Infected	Fluoroquinolones	-0.776295662532072
+S44AL2	Infected	Fosfomycin	-1.99198851212332
+S44AL2	Infected	Fosfomycin resistance	-4
+S44AL2	Infected	Fusidic acid	-3.33639045447089
+S44AL2	Infected	Glycopeptides	-4
+S44AL2	Infected	Lipopeptides	-1.91256020221385
+S44AL2	Infected	MLS	-0.838510434045893
+S44AL2	Infected	Multi-biocide resistance	-4
+S44AL2	Infected	Multi-drug resistance	-1.81995287758579
+S44AL2	Infected	Mupirocin	-3.15684366955324
+S44AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S44AL2	Infected	Oxazolidinone	-2.12245621506752
+S44AL2	Infected	Phenicol	-4
+S44AL2	Infected	Phenolic compound resistance	-2.88419706838087
+S44AL2	Infected	Pleuromutilin	-4
+S44AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S44AL2	Infected	Rifampin	-4
+S44AL2	Infected	Sulfonamides	-2.32753989672147
+S44AL2	Infected	Tetracyclines	-2.08907751060609
+S44AL2	Infected	Trimethoprim	-4
+S44AL2	Infected	Zoliflodacin resistance	-2.11773570445871
+S44AL2	Infected	betalactams	-1.5179771937157
+S45AR2	Uninfected	Acid resistance	-4
+S45AR2	Uninfected	Aminocoumarins	-4
+S45AR2	Uninfected	Aminoglycosides	-1.15658481061859
+S45AR2	Uninfected	Bacitracin	-4
+S45AR2	Uninfected	Cationic antimicrobial peptides	-4
+S45AR2	Uninfected	Drug and biocide and metal resistance	-4
+S45AR2	Uninfected	Drug and biocide resistance	-1.41625027675622
+S45AR2	Uninfected	Elfamycins	-2.25745130931539
+S45AR2	Uninfected	Fluoroquinolones	-2.27576181937301
+S45AR2	Uninfected	Fosfomycin	-2.18428413169672
+S45AR2	Uninfected	Fosfomycin resistance	-4
+S45AR2	Uninfected	Fusidic acid	-4
+S45AR2	Uninfected	Glycopeptides	-4
+S45AR2	Uninfected	Lipopeptides	-1.99625515069785
+S45AR2	Uninfected	MLS	-1.38961478010649
+S45AR2	Uninfected	Multi-biocide resistance	-4
+S45AR2	Uninfected	Multi-drug resistance	-1.66125472204466
+S45AR2	Uninfected	Mupirocin	-3.09548931610461
+S45AR2	Uninfected	Mycobacterium tuberculosis-specific Drug	-4
+S45AR2	Uninfected	Oxazolidinone	-2.82076970630921
+S45AR2	Uninfected	Phenicol	-2.0807016973943
+S45AR2	Uninfected	Phenolic compound resistance	-4
+S45AR2	Uninfected	Pleuromutilin	-4
+S45AR2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-2.72814285672859
+S45AR2	Uninfected	Rifampin	-4
+S45AR2	Uninfected	Sulfonamides	-1.96515554760973
+S45AR2	Uninfected	Tetracyclines	-1.611660794596
+S45AR2	Uninfected	Trimethoprim	-1.85418246713892
+S45AR2	Uninfected	Zoliflodacin resistance	-4
+S45AR2	Uninfected	betalactams	-2.59203912266258
+S46BR2	Infected	Acid resistance	-4
+S46BR2	Infected	Aminocoumarins	-4
+S46BR2	Infected	Aminoglycosides	-1.05095467241138
+S46BR2	Infected	Bacitracin	-4
+S46BR2	Infected	Cationic antimicrobial peptides	-2.20471717299841
+S46BR2	Infected	Drug and biocide and metal resistance	-4
+S46BR2	Infected	Drug and biocide resistance	-1.1484160290175
+S46BR2	Infected	Elfamycins	-2.08750609410988
+S46BR2	Infected	Fluoroquinolones	-0.861420786702064
+S46BR2	Infected	Fosfomycin	-4
+S46BR2	Infected	Fosfomycin resistance	-4
+S46BR2	Infected	Fusidic acid	-4
+S46BR2	Infected	Glycopeptides	-4
+S46BR2	Infected	Lipopeptides	-1.73441059609092
+S46BR2	Infected	MLS	-1.58405163518446
+S46BR2	Infected	Multi-biocide resistance	-4
+S46BR2	Infected	Multi-drug resistance	-1.21118957614144
+S46BR2	Infected	Mupirocin	-4
+S46BR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S46BR2	Infected	Oxazolidinone	-4
+S46BR2	Infected	Phenicol	-1.63198002525302
+S46BR2	Infected	Phenolic compound resistance	-1.95442027758905
+S46BR2	Infected	Pleuromutilin	-4
+S46BR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S46BR2	Infected	Rifampin	-2.13898922848079
+S46BR2	Infected	Sulfonamides	-1.13758869972432
+S46BR2	Infected	Tetracyclines	-1.874875955854
+S46BR2	Infected	Trimethoprim	-1.7691830469579
+S46BR2	Infected	Zoliflodacin resistance	-4
+S46BR2	Infected	betalactams	-1.4809132741654
+S48AR2	Infected	Acid resistance	-4
+S48AR2	Infected	Aminocoumarins	-4
+S48AR2	Infected	Aminoglycosides	-0.945671667690539
+S48AR2	Infected	Bacitracin	-4
+S48AR2	Infected	Cationic antimicrobial peptides	-3.10595996351431
+S48AR2	Infected	Drug and biocide and metal resistance	-4
+S48AR2	Infected	Drug and biocide resistance	-1.78897145943168
+S48AR2	Infected	Elfamycins	-1.66213611383865
+S48AR2	Infected	Fluoroquinolones	-1.14455990021694
+S48AR2	Infected	Fosfomycin	-3.12760188845261
+S48AR2	Infected	Fosfomycin resistance	-4
+S48AR2	Infected	Fusidic acid	-2.60647888415708
+S48AR2	Infected	Glycopeptides	-4
+S48AR2	Infected	Lipopeptides	-1.11734278950509
+S48AR2	Infected	MLS	-0.617447005917584
+S48AR2	Infected	Multi-biocide resistance	-4
+S48AR2	Infected	Multi-drug resistance	-1.78773093082322
+S48AR2	Infected	Mupirocin	-4
+S48AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S48AR2	Infected	Oxazolidinone	-2.65736246776359
+S48AR2	Infected	Phenicol	-4
+S48AR2	Infected	Phenolic compound resistance	-3.07304311731376
+S48AR2	Infected	Pleuromutilin	-4
+S48AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S48AR2	Infected	Rifampin	-4
+S48AR2	Infected	Sulfonamides	-4
+S48AR2	Infected	Tetracyclines	-1.7071449023739
+S48AR2	Infected	Trimethoprim	-4
+S48AR2	Infected	Zoliflodacin resistance	-2.03818880504739
+S48AR2	Infected	betalactams	-1.58827828909173
+S49BL2	Infected	Acid resistance	-4
+S49BL2	Infected	Aminocoumarins	-4
+S49BL2	Infected	Aminoglycosides	-1.06342247087725
+S49BL2	Infected	Bacitracin	-4
+S49BL2	Infected	Cationic antimicrobial peptides	-4
+S49BL2	Infected	Drug and biocide and metal resistance	-4
+S49BL2	Infected	Drug and biocide resistance	-4
+S49BL2	Infected	Elfamycins	-2.1327389176069
+S49BL2	Infected	Fluoroquinolones	-0.545639991098045
+S49BL2	Infected	Fosfomycin	-4
+S49BL2	Infected	Fosfomycin resistance	-4
+S49BL2	Infected	Fusidic acid	-4
+S49BL2	Infected	Glycopeptides	-4
+S49BL2	Infected	Lipopeptides	-4
+S49BL2	Infected	MLS	-1.4538639940014
+S49BL2	Infected	Multi-biocide resistance	-4
+S49BL2	Infected	Multi-drug resistance	-2.67318274028871
+S49BL2	Infected	Mupirocin	-4
+S49BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S49BL2	Infected	Oxazolidinone	-1.83612900275807
+S49BL2	Infected	Phenicol	-2.67246920374189
+S49BL2	Infected	Phenolic compound resistance	-4
+S49BL2	Infected	Pleuromutilin	-4
+S49BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S49BL2	Infected	Rifampin	-4
+S49BL2	Infected	Sulfonamides	-2.81264790690682
+S49BL2	Infected	Tetracyclines	-1.38510357097243
+S49BL2	Infected	Trimethoprim	-1.54022546152926
+S49BL2	Infected	Zoliflodacin resistance	-4
+S49BL2	Infected	betalactams	-4
+S4AL2	Infected	Acid resistance	-4
+S4AL2	Infected	Aminocoumarins	-3.00424879306813
+S4AL2	Infected	Aminoglycosides	-0.868096622047002
+S4AL2	Infected	Bacitracin	-2.53620347552076
+S4AL2	Infected	Cationic antimicrobial peptides	-4
+S4AL2	Infected	Drug and biocide and metal resistance	-4
+S4AL2	Infected	Drug and biocide resistance	-1.25983605083187
+S4AL2	Infected	Elfamycins	-1.94901639963734
+S4AL2	Infected	Fluoroquinolones	-2.02362499224971
+S4AL2	Infected	Fosfomycin	-2.09059665074287
+S4AL2	Infected	Fosfomycin resistance	-4
+S4AL2	Infected	Fusidic acid	-3.41693363787478
+S4AL2	Infected	Glycopeptides	-2.0598740067668
+S4AL2	Infected	Lipopeptides	-1.61828910896143
+S4AL2	Infected	MLS	-0.984383070095083
+S4AL2	Infected	Multi-biocide resistance	-3.27105584391031
+S4AL2	Infected	Multi-drug resistance	-1.62572598501006
+S4AL2	Infected	Mupirocin	-3.09262285620769
+S4AL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S4AL2	Infected	Oxazolidinone	-2.24250793975588
+S4AL2	Infected	Phenicol	-1.98632080651174
+S4AL2	Infected	Phenolic compound resistance	-2.66371025612004
+S4AL2	Infected	Pleuromutilin	-4
+S4AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-2.47210038490981
+S4AL2	Infected	Rifampin	-4
+S4AL2	Infected	Sulfonamides	-1.59089560441901
+S4AL2	Infected	Tetracyclines	-1.51723622801823
+S4AL2	Infected	Trimethoprim	-1.83177493589166
+S4AL2	Infected	Zoliflodacin resistance	-4
+S4AL2	Infected	betalactams	-1.32821151759423
+S51AL2	Infected	Acid resistance	-4
+S51AL2	Infected	Aminocoumarins	-0.864915914554837
+S51AL2	Infected	Aminoglycosides	0.0542133296976791
+S51AL2	Infected	Bacitracin	-3.05152835165547
+S51AL2	Infected	Cationic antimicrobial peptides	-1.35510667143301
+S51AL2	Infected	Drug and biocide and metal resistance	-2.6819636505816
+S51AL2	Infected	Drug and biocide resistance	0.319702829718448
+S51AL2	Infected	Elfamycins	-0.546279946618874
+S51AL2	Infected	Fluoroquinolones	-0.168159785358585
+S51AL2	Infected	Fosfomycin	-0.342827496163966
+S51AL2	Infected	Fosfomycin resistance	-2.06314597498238
+S51AL2	Infected	Fusidic acid	-1.18329565275354
+S51AL2	Infected	Glycopeptides	-4
+S51AL2	Infected	Lipopeptides	-0.100620960980524
+S51AL2	Infected	MLS	0.0526206979624283
+S51AL2	Infected	Multi-biocide resistance	-2.00822946966116
+S51AL2	Infected	Multi-drug resistance	-0.00161984337121416
+S51AL2	Infected	Mupirocin	-1.33607122175335
+S51AL2	Infected	Mycobacterium tuberculosis-specific Drug	-3.29682482707419
+S51AL2	Infected	Oxazolidinone	-0.540725047084544
+S51AL2	Infected	Phenicol	-1.7629258543518
+S51AL2	Infected	Phenolic compound resistance	-1.04991991626583
+S51AL2	Infected	Pleuromutilin	-3.60099701874361
+S51AL2	Infected	Quaternary Ammonium Compounds QACs resistance	-1.95400150555614
+S51AL2	Infected	Rifampin	-4
+S51AL2	Infected	Sulfonamides	-0.542547457409966
+S51AL2	Infected	Tetracyclines	-0.338723214050891
+S51AL2	Infected	Trimethoprim	-0.474619661009462
+S51AL2	Infected	Zoliflodacin resistance	-4
+S51AL2	Infected	betalactams	0.24064954959445
+S52AR2	Infected	Acid resistance	-4
+S52AR2	Infected	Aminocoumarins	0.101027613322209
+S52AR2	Infected	Aminoglycosides	0.647692177396201
+S52AR2	Infected	Bacitracin	-2.65613939930386
+S52AR2	Infected	Cationic antimicrobial peptides	-1.97426369215541
+S52AR2	Infected	Drug and biocide and metal resistance	-4
+S52AR2	Infected	Drug and biocide resistance	0.730819087495317
+S52AR2	Infected	Elfamycins	-0.336096320680628
+S52AR2	Infected	Fluoroquinolones	0.60323463893672
+S52AR2	Infected	Fosfomycin	0.564485533588722
+S52AR2	Infected	Fosfomycin resistance	-2.11491505397328
+S52AR2	Infected	Fusidic acid	0.000382692590834477
+S52AR2	Infected	Glycopeptides	-3.58462496020211
+S52AR2	Infected	Lipopeptides	0.645511797711808
+S52AR2	Infected	MLS	0.138611458348165
+S52AR2	Infected	Multi-biocide resistance	-2.01078052598213
+S52AR2	Infected	Multi-drug resistance	0.540420527363861
+S52AR2	Infected	Mupirocin	-0.193565252758889
+S52AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S52AR2	Infected	Oxazolidinone	0.721109943100003
+S52AR2	Infected	Phenicol	0.0750146450026753
+S52AR2	Infected	Phenolic compound resistance	-1.18430904691163
+S52AR2	Infected	Pleuromutilin	-3.20560806639201
+S52AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S52AR2	Infected	Rifampin	0.128326740728004
+S52AR2	Infected	Sulfonamides	0.528672218792328
+S52AR2	Infected	Tetracyclines	0.362649198060187
+S52AR2	Infected	Trimethoprim	0.106017759740059
+S52AR2	Infected	Zoliflodacin resistance	-4
+S52AR2	Infected	betalactams	0.271296205220716
+S53AR2	Infected	Acid resistance	-4
+S53AR2	Infected	Aminocoumarins	-0.408652339685037
+S53AR2	Infected	Aminoglycosides	0.394270810195498
+S53AR2	Infected	Bacitracin	-4
+S53AR2	Infected	Cationic antimicrobial peptides	0.490409682261155
+S53AR2	Infected	Drug and biocide and metal resistance	-4
+S53AR2	Infected	Drug and biocide resistance	1.08904117420785
+S53AR2	Infected	Elfamycins	-0.455028191117653
+S53AR2	Infected	Fluoroquinolones	0.42980415500578
+S53AR2	Infected	Fosfomycin	0.2049832055833
+S53AR2	Infected	Fosfomycin resistance	-4
+S53AR2	Infected	Fusidic acid	-0.474697241832628
+S53AR2	Infected	Glycopeptides	-4
+S53AR2	Infected	Lipopeptides	0.703034479650548
+S53AR2	Infected	MLS	-0.315536977948286
+S53AR2	Infected	Multi-biocide resistance	-4
+S53AR2	Infected	Multi-drug resistance	1.21608590780763
+S53AR2	Infected	Mupirocin	-0.538088908196943
+S53AR2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S53AR2	Infected	Oxazolidinone	0.249103517823446
+S53AR2	Infected	Phenicol	-0.056653538194944
+S53AR2	Infected	Phenolic compound resistance	0.546724672910399
+S53AR2	Infected	Pleuromutilin	-2.24001810027577
+S53AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-2.36317050415175
+S53AR2	Infected	Rifampin	-4
+S53AR2	Infected	Sulfonamides	-4
+S53AR2	Infected	Tetracyclines	-0.385889864523533
+S53AR2	Infected	Trimethoprim	-1.80416906880172
+S53AR2	Infected	Zoliflodacin resistance	-1.97016259938801
+S53AR2	Infected	betalactams	0.438124773261558
+S5BL2	Infected	Acid resistance	-2.13674900390976
+S5BL2	Infected	Aminocoumarins	-1.74981426053634
+S5BL2	Infected	Aminoglycosides	0.232230485586688
+S5BL2	Infected	Bacitracin	-1.9617157100113
+S5BL2	Infected	Cationic antimicrobial peptides	-1.65807467835906
+S5BL2	Infected	Drug and biocide and metal resistance	-1.54734707754109
+S5BL2	Infected	Drug and biocide resistance	-0.465817446919972
+S5BL2	Infected	Elfamycins	-0.817669321017087
+S5BL2	Infected	Fluoroquinolones	-0.0429137228792205
+S5BL2	Infected	Fosfomycin	-1.34875999419625
+S5BL2	Infected	Fosfomycin resistance	-1.88537816298106
+S5BL2	Infected	Fusidic acid	-1.80388247722524
+S5BL2	Infected	Glycopeptides	-3.13323931959446
+S5BL2	Infected	Lipopeptides	-1.02406734743737
+S5BL2	Infected	MLS	0.117373763462004
+S5BL2	Infected	Multi-biocide resistance	-1.56742119322752
+S5BL2	Infected	Multi-drug resistance	-0.716309262513269
+S5BL2	Infected	Mupirocin	-4
+S5BL2	Infected	Mycobacterium tuberculosis-specific Drug	-4
+S5BL2	Infected	Oxazolidinone	-1.41127298357583
+S5BL2	Infected	Phenicol	-2.70862628094806
+S5BL2	Infected	Phenolic compound resistance	-1.91313123155479
+S5BL2	Infected	Pleuromutilin	-2.0541279852925
+S5BL2	Infected	Quaternary Ammonium Compounds QACs resistance	-4
+S5BL2	Infected	Rifampin	-4
+S5BL2	Infected	Sulfonamides	-1.15907073048239
+S5BL2	Infected	Tetracyclines	-0.139458183895491
+S5BL2	Infected	Trimethoprim	-1.66809871561177
+S5BL2	Infected	Zoliflodacin resistance	-1.66846151727316
+S5BL2	Infected	betalactams	-0.926935263019566
+S7AR2	Infected	Acid resistance	-4
+S7AR2	Infected	Aminocoumarins	-2.79892108564391
+S7AR2	Infected	Aminoglycosides	0.773425430335293
+S7AR2	Infected	Bacitracin	-4
+S7AR2	Infected	Cationic antimicrobial peptides	-1.31296963396134
+S7AR2	Infected	Drug and biocide and metal resistance	-4
+S7AR2	Infected	Drug and biocide resistance	0.0167080864074778
+S7AR2	Infected	Elfamycins	0.255778269496549
+S7AR2	Infected	Fluoroquinolones	1.68827446524399
+S7AR2	Infected	Fosfomycin	-0.844789472285839
+S7AR2	Infected	Fosfomycin resistance	-4
+S7AR2	Infected	Fusidic acid	-2.25602093313639
+S7AR2	Infected	Glycopeptides	-4
+S7AR2	Infected	Lipopeptides	-0.399130403306199
+S7AR2	Infected	MLS	0.317136008615802
+S7AR2	Infected	Multi-biocide resistance	-4
+S7AR2	Infected	Multi-drug resistance	0.100975160555098
+S7AR2	Infected	Mupirocin	-3.15565539426656
+S7AR2	Infected	Mycobacterium tuberculosis-specific Drug	-3.17688974696786
+S7AR2	Infected	Oxazolidinone	-1.19969454709506
+S7AR2	Infected	Phenicol	0.256944187593738
+S7AR2	Infected	Phenolic compound resistance	-1.28251305798584
+S7AR2	Infected	Pleuromutilin	-3.00194369462178
+S7AR2	Infected	Quaternary Ammonium Compounds QACs resistance	-1.37333558691999
+S7AR2	Infected	Rifampin	-4
+S7AR2	Infected	Sulfonamides	-1.31744742832249
+S7AR2	Infected	Tetracyclines	0.401683734042887
+S7AR2	Infected	Trimethoprim	-1.11024885837423
+S7AR2	Infected	Zoliflodacin resistance	-0.91385840162322
+S7AR2	Infected	betalactams	0.444241001134188
+S9BR2	Uninfected	Acid resistance	-4
+S9BR2	Uninfected	Aminocoumarins	-3.15310351562997
+S9BR2	Uninfected	Aminoglycosides	-1.16315627390596
+S9BR2	Uninfected	Bacitracin	-4
+S9BR2	Uninfected	Cationic antimicrobial peptides	-4
+S9BR2	Uninfected	Drug and biocide and metal resistance	-4
+S9BR2	Uninfected	Drug and biocide resistance	-1.82490629251306
+S9BR2	Uninfected	Elfamycins	-2.2504898995942
+S9BR2	Uninfected	Fluoroquinolones	-1.85157426641948
+S9BR2	Uninfected	Fosfomycin	-4
+S9BR2	Uninfected	Fosfomycin resistance	-4
+S9BR2	Uninfected	Fusidic acid	-2.34047907871126
+S9BR2	Uninfected	Glycopeptides	-4
+S9BR2	Uninfected	Lipopeptides	-2.94916332783394
+S9BR2	Uninfected	MLS	-1.2068534118653
+S9BR2	Uninfected	Multi-biocide resistance	-4
+S9BR2	Uninfected	Multi-drug resistance	-2.48442559351235
+S9BR2	Uninfected	Mupirocin	-3.35494151366223
+S9BR2	Uninfected	Mycobacterium tuberculosis-specific Drug	-3.02726468650892
+S9BR2	Uninfected	Oxazolidinone	-1.76516899127205
+S9BR2	Uninfected	Phenicol	-4
+S9BR2	Uninfected	Phenolic compound resistance	-4
+S9BR2	Uninfected	Pleuromutilin	-4
+S9BR2	Uninfected	Quaternary Ammonium Compounds QACs resistance	-4
+S9BR2	Uninfected	Rifampin	-4
+S9BR2	Uninfected	Sulfonamides	-4
+S9BR2	Uninfected	Tetracyclines	-1.9828181043359
+S9BR2	Uninfected	Trimethoprim	-2.56432573631042
+S9BR2	Uninfected	Zoliflodacin resistance	-2.94464597400323
+S9BR2	Uninfected	betalactams	-2.24039564084575

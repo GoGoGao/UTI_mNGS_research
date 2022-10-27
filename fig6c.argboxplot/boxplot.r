@@ -1,0 +1,7 @@
+library(ggplot2)
+library(tidyverse)
+library(scales)
+data<-read.table("box.input2",head=T,sep="\t")
+bar<-ggplot(data, aes(x=factor(gene,level=c("Fluoroquinolones","Aminoglycosides","Drug and biocide resistance","Multi-drug resistance","betalactams","MLS","Lipopeptides","Tetracyclines","Fosfomycin","Phenicol","Elfamycins","Sulfonamides","Oxazolidinone","Trimethoprim","Phenolic compound resistance","Cationic antimicrobial peptides","Aminocoumarins","Rifampin","Fusidic acid","Drug and biocide and metal resistance","Mupirocin","Glycopeptides","Multi-biocide resistance","Zoliflodacin resistance","Bacitracin","Fosfomycin resistance","Quaternary Ammonium Compounds QACs resistance","Acid resistance","Pleuromutilin","Mycobacterium tuberculosis-specific Drug"),ordered=TRUE),y=abun))+geom_boxplot(aes(fill =group),notch = FALSE, size =0.2,outlier.size=0.2,outlier.alpha=0.6) + theme_bw() + labs(x='ARG', y='ARG abundance(log10)')+ theme(plot.title = element_text(hjust = 0.5,size=10), axis.text.x=element_text(size=10),axis.text.y=element_text(size=10),axis.title.y=element_text(size=12),axis.title.x=element_text(size=12))+theme(axis.text.x= element_text(angle=45,hjust=1))+scale_fill_manual(values=c("#DC143C","#20B2AA","#808080"))
+ggsave(bar,filename ='ARG.box.pdf',width=15,height=5)
+dev.off()
